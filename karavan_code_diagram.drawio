@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2023-07-28T06:53:02.032Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cpmRIezvmEpr4CAJMcO3" version="21.6.1" type="github">
+  <parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black">
+    <h3>
+      This page contains the following errors:
+    </h3>
+    <div style="font-family:monospace;font-size:12px">
+      error on line 96 at column 44: invalid character in attribute value
+    </div>
+    <h3>
+      Below is a rendering of the page up to the first error.
+    </h3>
+  </parsererror>
+  <diagram name="전체 과정" id="mCxV87VYUHNUs2GO63bU">
+    <mxGraphModel dx="2074" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F5csrRHwl5hwl0idgwOr-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.493;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F5csrRHwl5hwl0idgwOr-91" target="F5csrRHwl5hwl0idgwOr-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="270" as="sourcePoint" />
+            <mxPoint x="101.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.995;exitDx=0;exitDy=0;entryX=0.561;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="F5csrRHwl5hwl0idgwOr-91" target="F5csrRHwl5hwl0idgwOr-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="270" as="sourcePoint" />
+            <mxPoint x="321.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.514;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F5csrRHwl5hwl0idgwOr-91" target="F5csrRHwl5hwl0idgwOr-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="270" as="sourcePoint" />
+            <mxPoint x="541.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.507;exitY=1.005;exitDx=0;exitDy=0;entryX=0.557;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="F5csrRHwl5hwl0idgwOr-91" target="F5csrRHwl5hwl0idgwOr-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="270" as="sourcePoint" />
+            <mxPoint x="758.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-76" value="DslProperties" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="470" width="140" height="320" as="geometry">
+            <mxRectangle x="14" y="470" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-77" value="Props&lt;br&gt;&lt;br&gt;integration&lt;br&gt;step?&lt;br&gt;onIntegrationUpdate?&lt;br&gt;onPropertyUpdate?&lt;br&gt;onClone?&lt;br&gt;isRouteDesigner&lt;br&gt;dark" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-76">
+          <mxGeometry y="30" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-78" value="State&lt;br&gt;&lt;br&gt;step?&lt;br&gt;selectStatus&lt;br&gt;isShowAdvanced&lt;br&gt;isDescriptionExpanded" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-76">
+          <mxGeometry y="190" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-80" value="DslSelector" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="470" width="140" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-81" value="Props&lt;br&gt;&lt;br&gt;onDslSelect&lt;br&gt;onClose?&lt;br&gt;parentId&lt;br&gt;parentDsl?&lt;br&gt;showSteps&lt;br&gt;dark&lt;br&gt;isOpen&lt;br&gt;position&lt;br&gt;tabIndex?" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-80">
+          <mxGeometry y="30" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-82" value="State&lt;br&gt;&lt;br&gt;tabIndex&lt;br&gt;filter" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-80">
+          <mxGeometry y="220" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-83" value="DslConnection" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="470" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-84" value="Props&lt;br&gt;&lt;br&gt;integration&lt;br&gt;width&lt;br&gt;height&lt;br&gt;top&lt;br&gt;left" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-83">
+          <mxGeometry y="30" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-85" value="State&lt;br&gt;&lt;br&gt;integration&lt;br&gt;steps" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-83">
+          <mxGeometry y="160" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-86" value="DslElement" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="674" y="470" width="140" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-87" value="Props&lt;br&gt;&lt;br&gt;integration&lt;br&gt;step&lt;br&gt;parent&lt;br&gt;deleteElement&lt;br&gt;selectElement&lt;br&gt;openSelector&lt;br&gt;moveElement&lt;br&gt;selectedUuid&lt;br&gt;inSteps&lt;br&gt;position" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-86">
+          <mxGeometry y="30" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-88" value="State&lt;br&gt;&lt;br&gt;showSelector&lt;br&gt;showMoveConfirmation&lt;br&gt;moveElements&lt;br&gt;tabIndex&lt;br&gt;isDragging&lt;br&gt;isDraggedOver" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-86">
+          <mxGeometry y="240" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-89" value="RouteDesigner" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="-90" width="140" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-90" value="Props&lt;br&gt;&lt;br&gt;onSave&lt;br&gt;integration&lt;br&gt;dark" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-89">
+          <mxGeometry y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-91" value="State&lt;br&gt;&lt;br&gt;logic&lt;br&gt;integration&lt;br&gt;selectedStep&lt;br&gt;showSelector&lt;br&gt;showDeleteConfirmation&lt;br&gt;deleteMessage&lt;br&gt;parentId&lt;br&gt;parentDsl?&lt;br&gt;selectedPosition&lt;br&gt;showSteps&lt;br&gt;selectedUuids&lt;br&gt;key&lt;br&gt;width&lt;br&gt;height&lt;br&gt;top&lt;br&gt;left&lt;br&gt;clipboardSteps&lt;br&gt;shiftKeyPressed?&lt;br&gt;ref?&lt;br&gt;printerRef?&lt;br&gt;propertyOnly&lt;br&gt;selectorTabIndex?" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-89">
+          <mxGeometry y="110" width="140" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-92" value="KaravanDesigner" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="-530" width="140" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-93" value="Props&lt;br&gt;&lt;br&gt;onSave&lt;br&gt;onSaveCustomCode&lt;br&gt;onGetCustomCode&lt;br&gt;filename&lt;br&gt;yaml&lt;br&gt;dark&lt;br&gt;tab?" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-92">
+          <mxGeometry y="30" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-94" value="State&lt;br&gt;&lt;br&gt;tab&lt;br&gt;integration&lt;br&gt;key&lt;br&gt;propertyOnly" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="F5csrRHwl5hwl0idgwOr-92">
+          <mxGeometry y="200" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="F5csrRHwl5hwl0idgwOr-95" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.464;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="F5csrRHwl5hwl0idgwOr-94" target="F5csrRHwl5hwl0idgwOr-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="-160" as="sourcePoint" />
+            <mxPoint x="414" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
